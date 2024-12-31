@@ -1,4 +1,4 @@
-# My-conf-floder-Arch-linux-hypr
+#Hyprland conf open the zip folder
 Recommendation
 I recommend to install a base Hyprland system before installing the ML4W Hyprland Dotfiles. Then you have a stable starting point and can test Hyprland on your system before. Hyprland is complex, under ongoing development and requires additional components.
 
